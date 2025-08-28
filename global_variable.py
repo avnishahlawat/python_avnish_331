@@ -1,4 +1,4 @@
-# Global variable
+# Sample program using Global variable 
 count = 0  
 
 def increment():
