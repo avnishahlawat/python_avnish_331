@@ -9,5 +9,5 @@ def increment():
 # Main program
 print("Initial count =", count)
 increment()
-increment()
-print("Final count =", count)
+increment() 
+print("Final count =", count) 
